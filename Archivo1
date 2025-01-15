@@ -1,2 +1,8 @@
 Archivo de prueba
+<<<<<<< HEAD
 holahola
+=======
+
+
+print("Hello World")
+>>>>>>> 88ac4ccbae9c3203900be3e5dd194d5832825ffc
